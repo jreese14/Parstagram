@@ -25,4 +25,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/AgOMwVr2Kv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' align='left' />
 
-<img src='http://g.recordit.co/Og9ZO4QQfP.gif' title='Video Walkthrough' width='' />
+<img src='http://g.recordit.co/0v0adK3L2J.gif' title='Video Walkthrough' width='' />
